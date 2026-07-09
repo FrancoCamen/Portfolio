@@ -80,7 +80,7 @@ export const projects = [
     id: 'traffic-signs',
     title: 'Clasificador de Señales de Tránsito',
     eyebrow: 'Inteligencia artificial',
-    description: 'Proyecto académico de Inteligencia Artificial desarrollado en equipo para clasificar imágenes de señales de tránsito mediante una Red Neuronal de Hamming. El sistema fue implementado en Python y reconoce tres clases: Pare, Ceda el Paso y Vía Prioritaria. Mi rol dentro del proyecto estuvo enfocado en el testeo del modelo y el análisis de métricas.',
+    description: 'Proyecto para clasificar imágenes de señales de tránsito mediante una Red Neuronal de Hamming. Mi rol dentro del proyecto estuvo enfocado en el testeo del modelo y el análisis de métricas.',
     technologies: ['Python', 'NumPy', 'OpenCV', 'Scikit-learn', 'Red de Hamming'],
     image: './projects/testeo.png',
     alt: 'Métricas y pruebas del clasificador de señales',
