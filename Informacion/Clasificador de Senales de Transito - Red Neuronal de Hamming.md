@@ -1,6 +1,6 @@
 # Clasificador de Senales de Transito con Red Neuronal de Hamming
 
-Proyecto academico de Inteligencia Artificial desarrollado en equipo para clasificar imagenes de senales de transito mediante una Red Neuronal de Hamming. El sistema fue implementado en Python y reconoce tres clases: Pare, Ceda el Paso y Via Prioritaria.
+Proyecto academico de Inteligencia Artificial desarrollado en equipo para clasificar imagenes de senales de transito mediante una Red Neuronal de Hamming. El sistema fue implementado en Python y reconoce tres clases: Pare, Ceda el Paso y Via Prioritaria. Mi rol dentro del proyecto estuvo enfocado en el testeo del modelo y el analisis de metricas.
 
 Mi responsabilidad principal dentro del proyecto fue el diseno y ejecucion del proceso de testeo, la definicion de metricas, la comparacion de configuraciones y la caracterizacion de los limites operativos del modelo.
 
